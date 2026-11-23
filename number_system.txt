@@ -1,0 +1,10 @@
+binary number system ====== 1 or 2
+octal number system ===== 0,1,2,3,4,5,6,7
+decimal number system ====== 0,1,2,3,4,5,6,7,8,9
+hexadecimal number system ====== 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f
+                                where a is 10
+                                      b is 11
+                                      c is 12
+                                      d is 13
+                                      e is 14
+                                      f is 15
