@@ -8,3 +8,18 @@ hexadecimal number system ====== 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f
                                       d is 13
                                       e is 14
                                       f is 15
+
+
+
+
+
+
+for binary base is ---> 2
+for octal base is ----> 8
+for hexa decimal number base is ----> 16
+
+
+and represntions are :
+ Binary :- 0b
+ Ocatal :- 0o
+ hexa   :- 0x
