@@ -1,0 +1,17 @@
+Question :- did you know the diffrence betten "And" oprater and "&" bitwise opretor 
+
+
+# Bitwise opretors 
+
+1. Compliment Opretor --->    ~
+  it will always give negitive value 
+  -(x + 1) and in terms of binary it convers all values inverted means "0" to "1" and "1" to "0"
+eg --> ~12 = -13
+
+
+2.Bitwise And (&)
+eg --> 12 & 13 = 12
+
+wright binary of 12 
+wright binary of 13 
+then perform And on it 
