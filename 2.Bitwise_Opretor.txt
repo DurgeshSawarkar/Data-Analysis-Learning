@@ -44,6 +44,12 @@ then convert it "bit" to "int"
 
 
 
+swap two numbers 
+a =3 
+f = 5
+a, f = f ,a
+
+
 
 
 
