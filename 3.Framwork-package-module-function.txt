@@ -1,0 +1,26 @@
+Package :- is a collection of moduels
+modules :- is a collection of funtions 
+funtion :- is a collection of statments
+
+
+and combination of all this is framework.
+
+
+  eg --> Math 
+math is a module (import math / import math as m)
+
+then using that we can use math module funtions 
+eg-->
+     math.sqrt()---> to find squer root
+     math.floor() ---> to find closest bigger number 
+     math.ceil() ----> to find closest smaller number 
+     m.pow(n, m) ----> to find requed power of any number 
+
+
+*we can also use help() funtion to find  modules and check them 
+
+###############################
+input funtion "input()"
+
+it will take input as string by default, if we need it in any other data type we need to convet that 
+eg -- int(input())
